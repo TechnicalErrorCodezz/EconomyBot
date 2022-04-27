@@ -1,7 +1,8 @@
 # EconomyBot
 This is the Economy bot with Daily, weekly command. This Bot is made by Technical Error team. Hope you will like it if you like this dont forget to star
 
-# Welcome To EconomyBot <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Welcome To EconomyBot
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## This Bot is coded by TechnicalError Team. 
 ### Library = Discord.js
 #### Language : JavaScript/NodeJS (Core Lang : EN)
@@ -11,7 +12,6 @@ This is the Economy bot with Daily, weekly command. This Bot is made by Technica
 # Links
 - 🔗 [Youtube Channel](https://www.youtube.com/channel/UCVjnY7Rb_Wsp0oqJWvBCQIg)
 - 🔗 [Discord Server](https://discord.gg/NJpcq3VkQu)
-- 🔗 [Try Our Bot](
 
 
 # Copyright 
